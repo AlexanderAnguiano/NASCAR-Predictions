@@ -36,7 +36,7 @@ library(PerformanceAnalytics)
 
 
 ### Set Working Directory ###
-setwd("C:/Users/Alex/Desktop")
+setwd("C:/Users/Your/Desktop")
 
 ### Read in prepped data for Regression Models. ###
 train <- read.csv("Dover2Train.csv", stringsAsFactors = FALSE)
